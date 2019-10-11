@@ -10,6 +10,14 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("welcome to C#");
+            Console.WriteLine("welcome to C#");
+            Console.WriteLine("welcome to C#");
+            Console.WriteLine("welcome to C#");
+            Console.WriteLine("welcome to C#");
+            Console.WriteLine("welcome to C#");
+            Console.WriteLine("welcome to C#");
+            Console.WriteLine("welcome to C#");
         }
     }
 }
